@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mostrador clean e moderno</string>
+    <string name="this_is_a_companion_app">Este é um aplicativo auxiliar de watchface criado para que os usuários encontrem e baixem facilmente o watchface no relógio.</string>
+    <string name="tap_the_button_below">Toque na imagem ou no botão abaixo para abrir o Watchface em seu dispositivo Wear OS conectado</string>
+    <string name="open_on_my_watch">Abrir no meu relógio</string>
+    <string name="check_your_watch">Verifique seu relógio</string>
+    <string name="no_watch_connected">Nenhum relógio está conectado</string>
+</resources>

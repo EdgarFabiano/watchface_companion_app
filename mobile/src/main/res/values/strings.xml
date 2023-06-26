@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clean Modern Analog Watch Face</string>
+    <string name="this_is_a_companion_app">This is a watchface companion helper app created for users to easily find and download the watch face on watch.</string>
+    <string name="tap_the_button_below">Please tap the image or the button below and it will open the Watchface on your connected Wear OS Device</string>
+    <string name="open_on_my_watch">Open on my watch</string>
+    <string name="check_your_watch">Please check your watch</string>
+    <string name="no_watch_connected">No watch is connected</string>
+</resources>
